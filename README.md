@@ -1,3 +1,4 @@
+# Data-Collector-Web-App
 In the module send_email.py variables 'from_email' and 'from_password' need to be filled in.
 
 To be able to run this app locally: 
